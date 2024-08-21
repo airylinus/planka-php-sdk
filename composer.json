@@ -1,7 +1,7 @@
 {
     "name": "airylinus/planka-php-sdk",
     "type": "library",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "description": "An easy-to-use PHP Class for accessing Planka's API.Fork from decole/planka-php-sdk",
     "keywords": ["planka", "api"],
     "homepage": "https://github.com/decole/planka-php-sdk",
